@@ -32,7 +32,7 @@ If you would like to contribute or add your own listing, please either send a gi
 	"The corpus is available freely online at tunisiya.org, where users can perform complex concordance 
 	searches and view search results in context, with access to the full text. "
 
-- https://github.com/drelhaj/ArabicDialects/tree/master/ArabicSharedTask
+- DID-LREC-2018: Training and test data for the Arabic dialect identification (DID) shared task at LREC 2018, https://github.com/drelhaj/ArabicDialects/tree/master/ArabicSharedTask
 
 - AOC: Arabic online commentary dataset, https://github.com/sjeblee/AOC
   "The AOC dataset was created by crawling the websites of three Arabic newspapers,
@@ -46,8 +46,6 @@ If you would like to contribute or add your own listing, please either send a gi
   of Tunisian radios and TV channels namely Mosaique FM, JawhraFM, Shemes FM, 
   HiwarElttounsi TV and Nessma TV. The corpus is collected from a period spanning 
   January 2015 until June 2016."
-
-- DID-LREC2018 Data: training and test data for the Arabic dialect identification shared task at LREC 2018
 
 - CODA Seed Lexicon, https://sites.google.com/a/nyu.edu/coda/dialect-specific
 
