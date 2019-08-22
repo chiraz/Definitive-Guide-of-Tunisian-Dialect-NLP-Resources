@@ -45,6 +45,7 @@ If you would like to contribute or add a new listing, please either send a git p
   but the articles themselves are also included."
 
 - TSAC: Tunisian sentiment analysis corpus, https://github.com/fbougares/TSAC
+
   "About 17k user comments manually annotated to positive and negative polarities. 
   This corpus is collected from Facebook users comments written on official pages 
   of Tunisian radios and TV channels namely Mosaique FM, JawhraFM, Shemes FM, 
@@ -59,6 +60,7 @@ If you would like to contribute or add a new listing, please either send a git p
 ### Open-source
 
 - FARASA toolkit, http://qatsdemo.cloudapp.net/farasa/
+
   "Farasa (which means “insight” in Arabic), is a fast and accurate text processing toolkit for Arabic text. 
   Farasa consists of the segmentation/tokenization module, POS tagger, Arabic text Diacritizer, and Dependency Parser. 
   We measure the performance of the segmenter in terms of accuracy and efficiency, in two NLP tasks, namely Machine Translation (MT) 
@@ -73,6 +75,7 @@ If you would like to contribute or add a new listing, please either send a git p
 ### Free online demo-only tools
 
 - ADIDA: Automatic Dialect Identification for Arabic, https://adida.abudhabi.nyu.edu/
+
  "This interface is a demo of the MADAR project dialect identification system developed by Salameh, Bouamor and Habash (2018).
   The system is able to distinguish amongst 25 cities (from Rabat to Muscat) in addition to Modern Standard Arabic.
   To use the demo enter text in Standard or Dialectal Arabic. The cities and regions that our system identifies will be lit up.
