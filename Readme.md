@@ -36,7 +36,9 @@ If you would like to contribute or add a new listing, please either send a git p
 
 - DID-LREC-2018: Training and test data for the Arabic dialect identification (DID) shared task at LREC 2018, https://github.com/drelhaj/ArabicDialects/tree/master/ArabicSharedTask
 
-- AOC: Arabic online commentary dataset, https://github.com/sjeblee/AOC
+- Various small lexicons contributed by N. Karmani Ben Moussa as part of her PhD thesis work, last updated August 2016, https://github.com/NadiaBMKarmani
+
+- AOC: Arabic online commentary dataset by Omar Zaidan, last updated August 2012, https://github.com/sjeblee/AOC
   "The AOC dataset was created by crawling the websites of three Arabic newspapers,
   and extracting online articles and readers' comments.  The readers' comments are
   arguably more "interesting", which is why we call this the *commentary* dataset,
